@@ -1,9 +1,7 @@
 Key:\
-~~Previously used~~\
-*Unused*\
-**Newly used**
+`Newly used`
 
-Runeword name list:
+Unused Runeword Name List:
 - Armageddon
 - Authority
 - Beauty
