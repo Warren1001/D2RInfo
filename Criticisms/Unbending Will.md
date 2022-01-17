@@ -2,7 +2,7 @@
 **Unbending Will**\
 *Swords Only*\
 \`FalIoIthEldElHel\`\
-Minimum Level Req: 41\
+Minimum Level Req: 41
 - 18% level 18 Taunt on Striking
 - 3 to Combat Skills (Barb only)
 - 20% IAS
