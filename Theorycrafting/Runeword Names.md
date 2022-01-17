@@ -4,172 +4,94 @@ Key:\
 **Newly used**
 
 Runeword name list:
-- `Ancients' Pledge`
-- *Armageddon*
-- *Authority*
-- `Beast`
-- *Beauty*
-- `Black`
-- *Blood*
-- `Bone`
-- `Bramble`
-- `Brand`
-- `Breath of the Dying`
-- *Broken Promise*
-- `Call to Arms`
-- `Chains of Honor`
-- *Chance*
-- `Chaos`
-- `Crescent Moon`
-- *Darkness*
-- *Daylight*
-- `Death`
-- *Deception*
-- `Delirium`
-- *Desire*
-- *Despair*
-- `Destruction`
-- `Doom`
-- `Dragon`
-- *Dread*
-- `Dream`
-- `Duress`
-- `Edge`
-- *Elation*
-- `Enigma`
-- `Enlightenment`
-- *Envy*
-- `Eternity`
-- `Exile`
-- `Faith`
-- `Famine`
-- *Flickering Flame*
-- `Fortitude`
-- *Fortune*
-- *Amity*
-- `Fury`
-- `Gloom`
-- *Glory*
-- `Grief`
-- `Hand of Justice`
-- `Harmony`
-- *Hatred*
-- `Heart of the Oak`
-- *Heaven's Will*
-- *Holy Tears*
-- `Holy Thunder`
-- `Honor`
-- *Revenge*
-- *Humility*
-- *Hunger*
-- `Ice`
-- `Infinity`
-- *Innocence*
-- `Insight`
-- *Jealousy*
-- *Judgment*
-- `King's Grace`
-- `Kingslayer`
-- *Knight's Vigil*
-- *Knowledge*
-- `Last Wish`
-- *Law*
-- `Lawbringer`
-- `Leaf`
-- *Lightning*
-- `Lionheart`
-- `Lore`
-- *Love*
-- *Loyalty*
-- *Lust*
-- *Madness*
-- `Malice`
-- `Melody`
-- `Memory`
-- *Mist*
-- *Morning*
-- *Mystery*
-- `Myth`
-- `Nadir`
-- *Nature's Kingdom*
-- *Night*
-- `Oath`
-- `Obedience`
-- *Oblivion*
-- *Obsession*
-- `Passion`
-- *Patience*
-- *Pattern*
-- `Peace`
-- `Voice of Reason`
-- *Penitence*
-- *Peril*
-- *Pestilence*
-- `Phoenix`
-- *Piety*
-- *Pillar of Faith*
-- *Plague*
-- *Praise*
-- *Prayer*
-- `Pride`
-- `Principle`
-- *Prowess in Battle*
-- `Prudence`
-- *Punishment*
-- *Purity*
-- *Question*
-- `Radiance`
-- `Rain`
-- *Reason*
-- *Red*
-- `Rhyme`
-- `Rift`
-- `Sanctuary`
-- *Serendipity*
-- *Shadow*
-- *Shadow of Doubt*
-- `Silence`
-- *Siren's Song*
-- `Smoke`
-- *Sorrow*
-- `Spirit`
-- `Splendor`
-- *Starlight*
-- `Stealth`
-- `Steel`
-- *Still Water*
-- *Sting*
-- `Stone`
-- *Storm*
-- `Strength`
-- *Tempest*
-- *Temptation*
-- *Terror*
-- *Thirst*
-- *Thought*
-- *Thunder*
-- *Time*
-- *Tradition*
-- `Treachery`
-- *Trust*
-- *Truth*
-- *Unbending Will*
-- *Valor*
-- *Vengeance*
-- `Venom`
-- *Victory*
-- *Voice*
-- *Void*
-- *War*
-- *Water*
-- `Wealth`
-- *Whisper*
-- `White`
-- `Wind`
-- *Wings of Hope*
-- *Wisdom*
-- *Woe*
-- *Wonder*
-- `Wrath`
-- *Youth*
-- `Zephyr`
+- Armageddon
+- Authority
+- Beauty
+- Blood
+- Broken Promise
+- Chance
+- Darkness
+- Daylight
+- Deception
+- Desire
+- Despair
+- Dread
+- Elation
+- Envy
+- Flickering Flame
+- Fortune
+- Amity
+- Glory
+- Hatred
+- Heaven's Will
+- Holy Tears
+- Revenge
+- Humility
+- Hunger
+- Innocence
+- Jealousy
+- Judgment
+- Knight's Vigil
+- Knowledge
+- Law
+- Lightning
+- Love
+- Loyalty
+- Lust
+- Madness
+- Mist
+- Morning
+- Mystery
+- Nature's Kingdom
+- Night
+- Oblivion
+- Obsession
+- Patience
+- `Pattern`
+- Penitence
+- Peril
+- Pestilence
+- Piety
+- Pillar of Faith
+- `Plague`
+- Praise
+- Prayer
+- Prowess in Battle
+- Punishment
+- Purity
+- Question
+- Reason
+- Red
+- Serendipity
+- Shadow
+- Shadow of Doubt
+- Siren's Song
+- Sorrow
+- Starlight
+- Still Water
+- Sting
+- Storm
+- Tempest
+- Temptation
+- Terror
+- Thirst
+- Thought
+- Thunder
+- Time
+- Tradition
+- Trust
+- Truth
+- `Unbending Will`
+- Valor
+- Vengeance
+- Victory
+- Voice
+- Void
+- War
+- Water
+- Whisper
+- Wings of Hope
+- Wisdom
+- Woe
+- Wonder
+- Youth
