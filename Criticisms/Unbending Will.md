@@ -1,7 +1,7 @@
 ## Item Stats
 **Unbending Will**\
 *Swords Only*\
-\`FalIoIthEldElHel\`\
+\`Fal Io Ith Eld El Hel\`\
 Minimum Level Req: 41
 - 18% level 18 Taunt on Striking
 - 3 to Combat Skills (Barb only)
