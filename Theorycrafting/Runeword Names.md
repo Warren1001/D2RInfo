@@ -3,7 +3,7 @@ Key:\
 *Unused*\
 **Newly used**
 
-Runeword name list:\
+Runeword name list:
 - ~~Ancients' Pledge~~
 - *Armageddon*
 - *Authority*
