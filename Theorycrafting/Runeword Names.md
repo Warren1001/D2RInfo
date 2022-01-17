@@ -4,144 +4,144 @@ Key:\
 **Newly used**
 
 Runeword name list:
-- ~~**Ancients' Pledge~~**
+- `Ancients' Pledge`
 - *Armageddon*
 - *Authority*
-- ~~**Beast~~**
+- `Beast`
 - *Beauty*
-- ~~**Black~~**
+- `Black`
 - *Blood*
-- ~~**Bone~~**
-- ~~**Bramble~~**
-- ~~**Brand~~**
-- ~~**Breath of the Dying~~**
+- `Bone`
+- `Bramble`
+- `Brand`
+- `Breath of the Dying`
 - *Broken Promise*
-- ~~**Call to Arms~~**
-- ~~**Chains of Honor~~**
+- `Call to Arms`
+- `Chains of Honor`
 - *Chance*
-- ~~**Chaos~~**
-- ~~**Crescent Moon~~**
+- `Chaos`
+- `Crescent Moon`
 - *Darkness*
 - *Daylight*
-- ~~**Death~~**
+- `Death`
 - *Deception*
-- ~~**Delirium~~**
+- `Delirium`
 - *Desire*
 - *Despair*
-- ~~**Destruction~~**
-- ~~**Doom~~**
-- ~~**Dragon~~**
+- `Destruction`
+- `Doom`
+- `Dragon`
 - *Dread*
-- ~~**Dream~~**
-- ~~**Duress~~**
-- ~~**Edge~~**
+- `Dream`
+- `Duress`
+- `Edge`
 - *Elation*
-- ~~**Enigma~~**
-- ~~**Enlightenment~~**
+- `Enigma`
+- `Enlightenment`
 - *Envy*
-- ~~**Eternity~~**
-- ~~**Exile~~**
-- ~~**Faith~~**
-- ~~**Famine~~**
+- `Eternity`
+- `Exile`
+- `Faith`
+- `Famine`
 - *Flickering Flame*
-- ~~**Fortitude~~**
+- `Fortitude`
 - *Fortune*
 - *Amity*
-- ~~**Fury~~**
-- ~~**Gloom~~**
+- `Fury`
+- `Gloom`
 - *Glory*
-- ~~**Grief~~**
-- ~~**Hand of Justice~~**
-- ~~**Harmony~~**
+- `Grief`
+- `Hand of Justice`
+- `Harmony`
 - *Hatred*
-- ~~**Heart of the Oak~~**
+- `Heart of the Oak`
 - *Heaven's Will*
 - *Holy Tears*
-- ~~**Holy Thunder~~**
-- ~~**Honor~~**
+- `Holy Thunder`
+- `Honor`
 - *Revenge*
 - *Humility*
 - *Hunger*
-- ~~**Ice~~**
-- ~~**Infinity~~**
+- `Ice`
+- `Infinity`
 - *Innocence*
-- ~~**Insight~~**
+- `Insight`
 - *Jealousy*
 - *Judgment*
-- ~~**King's Grace~~**
-- ~~**Kingslayer~~**
+- `King's Grace`
+- `Kingslayer`
 - *Knight's Vigil*
 - *Knowledge*
-- ~~**Last Wish~~**
+- `Last Wish`
 - *Law*
-- ~~**Lawbringer~~**
-- ~~**Leaf~~**
+- `Lawbringer`
+- `Leaf`
 - *Lightning*
-- ~~**Lionheart~~**
-- ~~**Lore~~**
+- `Lionheart`
+- `Lore`
 - *Love*
 - *Loyalty*
 - *Lust*
 - *Madness*
-- ~~**Malice~~**
-- ~~**Melody~~**
-- ~~**Memory~~**
+- `Malice`
+- `Melody`
+- `Memory`
 - *Mist*
 - *Morning*
 - *Mystery*
-- ~~**Myth~~**
-- ~~**Nadir~~**
+- `Myth`
+- `Nadir`
 - *Nature's Kingdom*
 - *Night*
-- ~~**Oath~~**
-- ~~**Obedience~~**
+- `Oath`
+- `Obedience`
 - *Oblivion*
 - *Obsession*
-- ~~**Passion~~**
+- `Passion`
 - *Patience*
 - *Pattern*
-- ~~**Peace~~**
-- ~~**Voice of Reason~~**
+- `Peace`
+- `Voice of Reason`
 - *Penitence*
 - *Peril*
 - *Pestilence*
-- ~~**Phoenix~~**
+- `Phoenix`
 - *Piety*
 - *Pillar of Faith*
 - *Plague*
 - *Praise*
 - *Prayer*
-- ~~**Pride~~**
-- ~~**Principle~~**
+- `Pride`
+- `Principle`
 - *Prowess in Battle*
-- ~~**Prudence~~**
+- `Prudence`
 - *Punishment*
 - *Purity*
 - *Question*
-- ~~**Radiance~~**
-- ~~**Rain~~**
+- `Radiance`
+- `Rain`
 - *Reason*
 - *Red*
-- ~~**Rhyme~~**
-- ~~**Rift~~**
-- ~~**Sanctuary~~**
+- `Rhyme`
+- `Rift`
+- `Sanctuary`
 - *Serendipity*
 - *Shadow*
 - *Shadow of Doubt*
-- ~~**Silence~~**
+- `Silence`
 - *Siren's Song*
-- ~~**Smoke~~**
+- `Smoke`
 - *Sorrow*
-- ~~**Spirit~~**
-- ~~**Splendor~~**
+- `Spirit`
+- `Splendor`
 - *Starlight*
-- ~~**Stealth~~**
-- ~~**Steel~~**
+- `Stealth`
+- `Steel`
 - *Still Water*
 - *Sting*
-- ~~**Stone~~**
+- `Stone`
 - *Storm*
-- ~~**Strength~~**
+- `Strength`
 - *Tempest*
 - *Temptation*
 - *Terror*
@@ -150,26 +150,26 @@ Runeword name list:
 - *Thunder*
 - *Time*
 - *Tradition*
-- ~~**Treachery~~**
+- `Treachery`
 - *Trust*
 - *Truth*
 - *Unbending Will*
 - *Valor*
 - *Vengeance*
-- ~~**Venom~~**
+- `Venom`
 - *Victory*
 - *Voice*
 - *Void*
 - *War*
 - *Water*
-- ~~**Wealth~~**
+- `Wealth`
 - *Whisper*
-- ~~**White~~**
-- ~~**Wind~~**
+- `White`
+- `Wind`
 - *Wings of Hope*
 - *Wisdom*
 - *Woe*
 - *Wonder*
-- ~~**Wrath~~**
+- `Wrath`
 - *Youth*
-- ~~**Zephyr~~**
+- `Zephyr`
