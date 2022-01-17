@@ -1,7 +1,7 @@
 Key:\
 `Newly used`
 
-**Unused Runeword Name List**:\
+#### Unused Runeword Name List
 Armageddon\
 Authority\
 Beauty\
