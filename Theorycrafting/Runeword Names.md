@@ -4,7 +4,7 @@ Key:\
 **Newly used**
 
 Runeword name list:\
-~~Ancients' Pledge~~
+- ~~Ancients' Pledge~~
 - *Armageddon*
 - *Authority*
 - ~~Beast~~
