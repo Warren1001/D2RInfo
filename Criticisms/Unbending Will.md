@@ -1,4 +1,4 @@
-### Item Stats
+## Item Stats
 **Unbending Will**\
 *Swords Only*\
 \`FalIoIthEldElHel\`\
