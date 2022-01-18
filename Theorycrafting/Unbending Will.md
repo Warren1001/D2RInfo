@@ -20,7 +20,7 @@ Minimum Level Req: 41
 - -20% req
 
 Level 18 Taunt provides: -39% Damage and Attack Rating to affected monsters.\
-Taunt as a proc will automatically select the closest monster to the caster (usually the monster being attacked) and Taunt it. Taunt does not have AoE. Taunt is a curse and will override and be overridden by other curses. In practicality, this means improved survivability against the monster being attacked and preventing it from running away/kiting after Taunt procs. [Here is a video demo of how Taunt works as a proc](https://www.youtube.com/watch?v=at6rkCOXj-k).
+Taunt as a proc will automatically select the closest monster to the caster (usually the monster being attacked) and Taunt it. Taunt does not have AoE. Taunt is a curse and will override and be overridden by other curses. In practicality, this means improved survivability against the monster being attacked and preventing it from running away/kiting after Taunt procs (except for monsters with "flee", like Fallen). [Here is a video demo of how Taunt works as a proc](https://www.youtube.com/watch?v=at6rkCOXj-k).
 
 Being a 6 socketed runeword that can only be made in swords, this reduces base options to 2 base types: Crystal Sword/up and Great Sword/up. This means Crystal Sword, Dimensional Blade, and Phase Blade and Great Sword, Executioner Sword, and Colossus Blade.
 
