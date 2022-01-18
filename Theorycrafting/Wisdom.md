@@ -3,7 +3,7 @@
 *Helms Only*\
 \`Pul Ith Eld\`\
 Minimum Level Req: 45
-- Piercing Attack (% Pierce unknown)
+- Piercing Attack (33%)
 - 30% ED
 - 20% Bonus AR
 - 15% DTM
