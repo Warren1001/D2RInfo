@@ -33,4 +33,4 @@ With the upcoming change to Throwing Mastery to provide pierce, this may be a no
 
 ### Act 1 Mercenary Usage
 
-Since the [only source of pierce available to the Act 1 Mercenary is Kuko Shakaku](https://theamazonbasin.com/wiki/index.php/Pierce), this item offers another potential mercenary item. The only thing of concern is the helm slot for mercenaries is typically reserved to sustain, and Wisdom has no sustain or any defensive properties. I don't imagine this alone will make Act 1 Mercenaries any better than they currently are.
+Since the [only source of pierce available to the Act 1 Mercenary is Kuko Shakaku](https://theamazonbasin.com/wiki/index.php/Pierce#Source), and Kuko Shakaku is not a good Act 1 Mercenary item, Wisdom offers another potential mercenary item and a potentially solid source of pierce for the Act 1 Mercenary. The only thing of concern is the helm slot for mercenaries is typically reserved to sustain, and Wisdom has no sustain or any defensive properties. I don't imagine this alone will make Act 1 Mercenaries any better than they currently are.
