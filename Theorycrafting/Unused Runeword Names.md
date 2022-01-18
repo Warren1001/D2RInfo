@@ -37,7 +37,7 @@ Love\
 Loyalty\
 Lust\
 Madness\
-Mist\
+[Mist](https://github.com/Warren1001/D2RInfo/blob/master/Theorycrafting/Mist.md)\
 Morning\
 Mystery\
 Nature's Kingdom\
