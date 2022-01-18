@@ -1,7 +1,7 @@
 ## Item Stats
 **Pattern**\
 *Claws Only*\
-\`Tal Ort ~~*Tir*~~Thul\`\
+\`Tal Ort ~~*Tir*~~ Thul\`\
 Minimum Level Req: 23
 - ~~*30% Chance to Block*~~ (old version)
 - **30% Faster Block Rate** (D2R version)
