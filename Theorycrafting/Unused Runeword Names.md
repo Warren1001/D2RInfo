@@ -45,7 +45,7 @@ Night\
 Oblivion\
 Obsession\
 Patience\
-[Pattern](https://diablo-archive.fandom.com/wiki/Pattern_(Diablo_II_Rune_Word))\
+[Pattern](https://github.com/Warren1001/D2RInfo/blob/master/Theorycrafting/Pattern.md)\
 Penitence\
 Peril\
 Pestilence\
