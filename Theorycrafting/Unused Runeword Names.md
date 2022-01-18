@@ -1,5 +1,5 @@
 Key:\
-`Newly used`
+[Newly used]()
 
 ## Unused Runeword Name List
 Armageddon\
@@ -89,7 +89,7 @@ War\
 Water\
 Whisper\
 Wings of Hope\
-Wisdom\
+`Wisdom`\
 Woe\
 Wonder\
 Youth
