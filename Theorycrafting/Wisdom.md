@@ -29,7 +29,7 @@ The only true merit to this item is the pierce. None of the other modifiers are 
 
 ### Barbarian Usage
 
-With the upcoming change to Throwing Mastery to provide pierce, this may be a notable mid level helm option until something that provides better stats or damage is found (Arreats?). This assuming Throw Barb becomes vital with the changes in 2.4.
+With the upcoming change to Throwing Mastery to provide pierce, this may be a notable mid level helm option until something that provides better stats or damage is found (Arreats?). This is assuming Throw Barb becomes viable with the changes in 2.4.
 
 ### Act 1 Mercenary Usage
 
