@@ -11,7 +11,7 @@ Minimum Level Req: 45
 - CBF
 - 10 Energy
 
-Being a 3 socketed runeword that can only be made in helms, the following base types can be used: Great Helm/up, Mask/up, Crown/up, Tiara/up, and Bone Visage. This means: Great Helm, Winged Helm, Spired Helm, Mask, Death Mask, Demonhead, Crown, Grand Crown, Corona, Bone Visage, Tiara, and Diadem. No other helm can get 3os.
+Being a 3 socketed runeword that can only be made in helms, the following base types can be used: Great Helm/up, Mask/up, Crown/up, Tiara/up, Bone Visage, and all Druid and Barbarian Helms. This means: Great Helm, Winged Helm, Spired Helm, Mask, Death Mask, Demonhead, Crown, Grand Crown, Corona, Bone Visage, Tiara, Diadem, all Pelts, all Barbarian Helms. No other helm can get 3os.
 
 I will refer to the value of a runeword by the sum of its most notable runes. Wisdom be valued at 'Pul'.
 
