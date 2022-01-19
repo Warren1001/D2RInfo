@@ -15,7 +15,7 @@ Minimum Level Req: 55
 
 Being a 3 socketed runeword that can only be made in Helms, the following base types can be used: Great Helm/up, Mask/up, Crown/up, Tiara/up, Bone Visage, all Druid Pelts, and all Barbarian Helms. This means: Great Helm, Winged Helm, Spired Helm, Mask, Death Mask, Demonhead, Crown, Grand Crown, Corona, Bone Visage, Tiara, Diadem, all Pelts, and all Barbarian Helms. No other helm can get 3os.
 
-Level 8 Resist Fire gives 106 Fire Res. This will make summons/pets immune to fire if they do not have negative resistances!
+Level 8 Resist Fire gives 106 Fire Res. This will make summons/pets immune to fire if they do not have negative resistances!\
 Level 8 Resist Fire gives 8% max Fire Res to the person providing the aura.
 
 Notes:
