@@ -1,5 +1,5 @@
 Key:\
-[Newly used](https://github.com/Warren1001/D2RInfo/blob/master/Theorycrafting/Unused%20Runeword%20Names.md) (they're links, you can click them to see the stats/my analysis)
+[Newly used](https://github.com/Warren1001/D2RInfo/blob/master/Theorycrafting/Unused_Runeword_Names.md) (they're links, you can click them to see the stats/my analysis)
 
 ## Unused Runeword Name List
 Armageddon\
@@ -16,7 +16,7 @@ Despair\
 Dread\
 Elation\
 Envy\
-Flickering Flame\
+[Flickering Flame](https://github.com/Warren1001/D2RInfo/blob/master/Theorycrafting/Unused_Runeword_Names.md)\
 Fortune\
 Amity\
 Glory\
