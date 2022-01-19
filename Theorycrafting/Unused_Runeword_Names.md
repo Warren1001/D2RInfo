@@ -16,7 +16,7 @@ Despair\
 Dread\
 Elation\
 Envy\
-[Flickering Flame](https://github.com/Warren1001/D2RInfo/blob/master/Theorycrafting/Unused_Runeword_Names.md)\
+[Flickering Flame](https://github.com/Warren1001/D2RInfo/blob/master/Theorycrafting/Flickering_Flame.md)\
 Fortune\
 Amity\
 Glory\
@@ -79,7 +79,7 @@ Time\
 Tradition\
 Trust\
 Truth\
-[Unbending Will](https://github.com/Warren1001/D2RInfo/blob/master/Theorycrafting/Unbending%20Will.md)\
+[Unbending Will](https://github.com/Warren1001/D2RInfo/blob/master/Theorycrafting/Unbending_Will.md)\
 Valor\
 Vengeance\
 Victory\
