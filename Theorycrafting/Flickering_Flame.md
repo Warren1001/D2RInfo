@@ -27,7 +27,7 @@ It's obvious that this is a best in slot helm for a Fire Druid, weak as they may
 
 ### Sorceress Usage
 
-For a Fire Sorc, this could be doable. It's hard to pass up alternative options. A 2/20 Sorceress circlet with 2os socketed with fire Facets would be better most likely.
+For a Fire Sorc, this could be doable. It's hard to pass up alternative options. A +2 or +3/20 Sorceress circlet with 2os socketed with fire Facets would be better most likely.
 
 ### Amazon Usage
 
