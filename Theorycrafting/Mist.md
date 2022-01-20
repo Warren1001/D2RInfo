@@ -22,7 +22,7 @@ Notes:
 
 ### Amazon Usage
 
-I don't see this being viable for a Frostmaiden. The only merit is +3 skills and the defensive mods. It's already straightforward for a Bowazon or any Amazon to hit 100% pierce, so it's not game changing that this item has 100% pierce. I also don't see the merit for a physical Bowazon either, Faith and Windforce are both still better. Could be a cheaper alternative while waiting to get a Faith or Windforce, but don't see it being BiS. The damage of Faith and Windforce are both higher than what Mist could obtain.
+I don't see this being viable for a Frostmaiden. The only merit is +3 skills and the defensive mods. It's already straightforward for a Bowazon or any Amazon to hit 100% pierce, so it's not game changing that this item has 100% pierce. I also don't see the merit for a physical Bowazon either, Faith and Windforce are both still better. Could be a cheaper alternative while waiting to get a Faith or Windforce, but don't see it being BiS. The damage of Faith and Windforce are both higher than what Mist could obtain. Could be pretty good for a Fire Bowazon though. Freezes Target would force monsters to stand in immolation fire. Put it into a GMB with +3 Bow skills, thats +6.
 
 ### Act 1 Mercenary Usage
 
