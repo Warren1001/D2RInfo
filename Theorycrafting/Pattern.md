@@ -13,8 +13,6 @@ Minimum Level Req: 23
 - **3-14 Cold Dmg**
 - ~~*2 MAEK*~~
 - **75 Poison Dmg / 5 Sec**
-- Piercing Attack (100% Pierce)
-- 327?% ED (might be variable roll)
 - 6 Strength
 - 6 Dexterity
 - 15 All Res
