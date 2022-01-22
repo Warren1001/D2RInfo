@@ -3,12 +3,11 @@
 *Claws Only*\
 \`Tal Ort ~~*Tir*~~ Thul\`\
 Minimum Level Req: 23
-- ~~*30% Chance to Block*~~ (old version)
-- **30% Faster Block Rate** (D2R version)
-- 40-80% ED
+- ~~*30% Chance to Block*~~
+- **30% Faster Block Rate**
+- 40-80% ED (varies)
 - 10% Bonus AR
-- ~~*17-62 Fire Dmg*~~
-- **12-32 Fire Dmg**
+- 7-62 Fire Dmg
 - 1-50 Lightning Dmg
 - **3-14 Cold Dmg**
 - ~~*2 MAEK*~~
@@ -28,4 +27,4 @@ Notes:
 
 ### Usage
 
-Not much to say, its alright. Trapsin will likely still be the meta leveling option, but having an option like this for those that don't want to level as Trapsin is nice. The rainbow damage is nice for early game.
+Not much to say, its alright. Trapsin will likely still be the meta leveling option, but having an option like this for those that don't want to level as Trapsin is nice. The rainbow damage is nice for early game. There aren't any claw runewords for this low of level besides Malice and Strength, and neither of which are particularly great damage (work better as offhand claws, both of which don't get past 33% ED while this goes up to 80%).
