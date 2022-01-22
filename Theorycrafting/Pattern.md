@@ -16,6 +16,8 @@ Minimum Level Req: 23
 - 6 Dexterity
 - 15 All Res
 
+Note: The 2.4 patch notes and the revealed screenshot of Pattern have slightly different stats, don't know which one is correct.
+
 Being a 3 socketed runeword that can only be made in Claws, the following base types can be used: Claws/up, Blade Talons/up, Scissors Katar/up, Suwayyah, and Wrist Sword.
 
 3os Claws can be found as early as Act 4 Normal, but can be reliably found in Normal Cows at the earliest. Any earlier than Normal Cows may run the risk of getting a 0os claw that can only get 2os from socketing. Claws can drop as 3os in normal.
