@@ -24,7 +24,7 @@ Notes:
 
 ### Compared to Heart of the Oak and Spirit
 
-I've seen a lot people saying Obsession sucks because HOTO + Spirit is better. I think they do not know how to do basic math because Obsession is definitely better. Let's compare:
+I've seen a lot people saying Obsession sucks because HOTO + Spirit is better (for Sorceresses). I think they do not know how to do basic math because Obsession is definitely better. Let's compare:
 
 | HOTO + Spirit | Obsession |
 | --- | --- |
