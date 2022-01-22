@@ -3,12 +3,12 @@
 *Helms Only*\
 \`Nef Pul Vex\`\
 Minimum Level Req: 55
-- Level 8 Resist Fire on Equip
+- Level 4-8 Resist Fire on Equip (varies)
 - +3 Fire Skills
-- -13% enemy Fire Res (probably variable roll)
+- -10-15% enemy Fire Res (varies)
 - 30% ED
 - 30 def vs missile
-- 88 Mana
+- 50-75 Mana (varies)
 - 5% max Fire Res
 - HFD
 - PLR 50%
@@ -16,7 +16,8 @@ Minimum Level Req: 55
 Being a 3 socketed runeword that can only be made in Helms, the following base types can be used: Great Helm/up, Mask/up, Crown/up, Tiara/up, Bone Visage, all Druid Pelts, and all Barbarian Helms. This means: Great Helm, Winged Helm, Spired Helm, Mask, Death Mask, Demonhead, Crown, Grand Crown, Corona, Bone Visage, Tiara, Diadem, all Pelts, and all Barbarian Helms. No other helm can get 3os.
 
 Level 8 Resist Fire gives 106 Fire Res. This will make summons/pets immune to fire if they do not have negative resistances!\
-Level 8 Resist Fire gives 8% max Fire Res to the person providing the aura.
+Assuming summons/pets are always at 0 resistances, Resist Fire must be at least level 7 (102 Fire Res) to give Fire Immunity.\
+Level 8 Resist Fire does not give passive Max Fire Res, as Aura on Equip is considered soft skill points and that passive is only gained through hard skill points.
 
 Notes:
 - Resist Fire on Equip does not provide synergy bonus to Holy Fire on Equip, so combining this with Hand of Justice or Dragon does not improve Fire Damage.
