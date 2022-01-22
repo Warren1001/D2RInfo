@@ -1,0 +1,211 @@
+# 2.4 Changes
+
+This will be long and likely somewhat rambly, so bare with me.
+
+### Cast Delays
+
+
+
+## Class Changes
+
+### Amazon
+
+#### Javelin and Spear Skills
+
+##### Impale
+
+Impale having its hit-check removed is a very nice quality of life. Without a hit-check, it hits 100% of the time, no matter what. It cannot be blocked either (monsters can block, yes). It being uninterruptible is also a nice quality of life. The slow on hit is nice but I don't think that makes a big deal to an Impalezon besides providing CC by slowing the target's attacks. Maybe combined with slow from items and you can achieve Clay Golem slow, greatly reducing the damage output of bosses?
+
+Only concern I have for Impale is now that it is an uninterruptible skill, it may fall into the worse of the NHAM bug. Generalized, NHAM prevents animations from completing server-side properly, creating ghost animations/"no regs". Uninterruptible skills face it worse (or at least did in LOD) because while a skill was uninterruptible server-side, the client wouldn't recognize such a thing, so the skill could still be interrupted client side, allowing you to start the animation again before it completed server-side, completely voiding both animation attempts. If this bug interaction still exists on D2R, this would make Impale worse than just being interruptible.
+
+##### Fend
+
+Attack Speed increase is always good. The information regarding "reduced rollback frames between each attack" refers to the length of the "pull back" after each swing. Rollback frames have a constant factor applied to them to speed up or slow down the rollback. The larger the factor, the smaller the rollback would be. Fend in LOD was at 0.4. It is probably at 0.8 now since it was effectively doubled in speed (though this wouldn't literally translate to total frame length of a Fend animation being double in length).
+
+##### Power Strike, Charged Strike, Lightning Strike
+
+Not much to say, looks like they're trying to improve the viability of non-Lightning Fury-based Javazons by opening up more skillpoints by not having to invest into Lightning Fury to get the most damage out of the non-Lightning Fury skill. Lightning Fury is unchanged since there seems to be some confusion.
+
+##### Poison Javelin
+
+Not much to say, slight buff in terms of damage and an independent cast delay (CD). Don't think it'll be any more viable.
+
+##### Plague Javelin
+
+Fixed duration doesn't mean too much. It doesn't change the amount of DPS it does, but you will have to apply it more often than before. Slight damage buff is nice. Independent CD is very nice too.
+
+What's big about this is how much the CD was reduced. Down to 1 second, this makes Plague Javelin significantly more viable. Think of it like Poison Javelin now but you don't have to force monsters to walk through it (and it does more damage). Plague Javelin has a LOT of AoE, so this could become very useful. I don't know if it would be viable though, Poison Damage simply suffers in Hell without -res, and Amazon doesn't have a great access to -poison res. There's that new Plague runeword for Swords only (Swords only is trash btw) that can be thrown on an A5 merc for the Lower Resist when Struck proc, but A5 merc will constantly override it with his Battle Cry. No other accessible sources of -res besides Facets for Javazon, so don't think itll be endgame viable unfortunately.
+
+#### Passive and Magic Skills
+
+##### Inner Sight
+
+Nothing to say about it.
+
+##### Slow Missiles
+
+This is very interesting as a utility/CC/support skill. Missile slow scales instead of staying at flat 33%. Does it scale past 33%? Or does it start small and scale up to 33%? Since they're focused on buffs, let's assume it scales past 33%. Massive missile slow with a larger radius AND reducing enemy missile damage is huge. Think of how much more viable Chaos Sanctuary is at a lower level, and the impact this would have on Souls.
+
+##### Valkyrie
+
+Nice quality of life CD changes. Not much else to say.
+
+##### Dodge and Avoid
+
+The animations being interruptible is not really a clear definition of what was changed. Typically, uninterruptible animations refer to animations that have higher precedence over other animation (so Impale cannot be interrupted by hit recovery, for example). What does this mean for a passive skill animation? Surely you can't choose to attack and ignore the animation. Does this mean hit recovery will interrupt dodge animations and you'll go through the hit recovery animation instead? Does this mean dodge animation can interrupt dodge animation and chain lock? Very ambiguous. Assuming it does alleviate/fix dodgelock (being stuck in back to back dodge animations), then this is huge and opens up a lot of defensibility for an Amazon.
+
+#### Bow and Crossbow Skills
+
+##### Freezing Arrow
+
+Praise be, the #1 mana hungry skill in the game on a low damage skill (needing multiple casts for one kill) has had its mana scale nerfed. For reference, level 40 Freezing Arrow has a 28.5 mana cost. After these changes, its down to 18.75. Huge mana cost reduction. Frostmaidens can spam significantly more now.
+
+##### Magic Arrow
+
+eh, I don't really have much to say about this. Magic Arrow serves as a nice secondary skill for physical immunes and that notion of the skill was buffed. It's nice I guess.
+
+##### Guided Arrow
+
+Damage buff is nice for PvM. Absolutely massive for PvP. Guided Arrow Bowazon in PvP already dominated the meta in TvT (team vs team) / 4v4 duels, might have to see some adjustments for Guided Arrow in PvP.
+
+##### Strafe
+
+Damage buff is huge, attack rating buff is huge too. Definitely improves Strafe as a viable option in the lategame. Still doesn't compete with caster builds of same item investment though.
+
+##### Fire Arrow, Exploding Arrow, and Immolation Arrow
+
+Mana cost improvements are always nice, since elemental Bowazon builds are just weaker casters (slower speed, less damage, hit-check requirement). The damage improvements for Exploding Arrow and Immolation Arrow are very nice though. Something worth noting: Hand of Justice can be put into a Bow. Holy Fire's added fire weapon damage (buffed) adds to the explosion damages of Exploding Arrow and Immolation Arrow. Add Dragon into the mix for a high level Holy Fire and the fact that there are fire-build viable farming areas now (see the Areas section) could definitely make this a viable build. Would need some number theory/testing to see if this is actually a viable build or not. Additionally, new Mist has a Cham for a socket, which contributes Freezes Target. This forces monsters to stand still in Immolation pyres :)
+
+### Assassin
+
+#### Martial Arts
+
+##### Charge-up Skills
+
+Attack Rating bonuses are always welcome.
+
+##### Finishing Skills
+
+Finishing skills having a guaranteed hit on any charge is huge, and the following is why:
+
+This is absolutely massive. Finishing skills only consuming 1 charge instead of all 3 upon execution changes so much.
+
+The patch notes say Dragon Talon only consumes 1 charge on cast. I truly wonder if there was an oversight. It would sound more realistic if Dragon Talon would capable of consuming all three charges in sequential kicks. Watching an explosion of charge-up releases would be pretty cool. But let's assume it's correct and that Dragon Talon will only release 1 charge even if each Dragon Talon kicks several times. This leaves a lot of viable options open:
+
+Riftsin could have a new meta. Build a traditional Riftsin but add Phoenix Strike's Chaos Bolt (third charge) into the mix. Build up to three charges, kick with Dragon Talon, and boom several Frozen Orbs and a Chaos Bolt, attack once, kick with Dragon Talon, repeat. Phoenix Strike doesn't scale with % dmg, so maybe Blades of Ice would be better (it scales). Blades of Ice third charge is just CC, no damage, so mostly useless, but if we use the second charge on repeat where the damage is, this could be pretty good.
+
+What about a Fire-based MA sin? Tiger Strike with Dragon Tail. Fists of Fire doesn't work because both Fists of Fire and Dragon Tail convert physical to fire damage, so Dragon Tail has nothing to convert since Fists of Fire already converted it. But with Tiger Strike, at level 40 you do 880% Damage per active charge! This means, at 3 charges, you do 2640% physical damage! Take this physical damage, and with level 40 Dragon Tail, you do 440% physical damage as a fire explosion. This is 6.4k fire damage per kick with only Myrmidon Greaves damage and no other additional damage sources accounted for. This was negligible before because you had to spend time generating the three charges again. But now, you kick, attack once, kick, attack once, and repeat. With Finishing skills guaranteed hit on any charge, your kick will never miss. With the additional Attack Rating bonuses, managing your charges should be relatively easy. The only offputting thing to some people is Dragon Tail's explosion also has knockback, but stack enough FRW and it's no longer an issue.
+
+Here's something even more interesting:
+![MA Sin Charges](https://github.com/Warren1001/D2RInfo/blob/master/masin.gif?raw=true)
+A lot of people don't seem to realize but you can stack every charge-up skill at the same time. Each charge-up skill has an independent timer of 15 seconds before its respective charges disappear. Generating another charge of that respective charge-up skill (or presumably consuming one) will reset the duration. It's extremely tedious and I do not recommend trying to manage all 6 of them. But 2 or maybe 3... what happens when you kick with multiple charge-up skill charges active? As of now, the third charge of every charge is released. This would imply that 1 charge would be consumed from each charge-up skill, meaning you can charge-up and maintain charges for multiple charge-up skills at the same time. Fists of Fire 2nd + Phoenix Strike 1st + Dragon Tail? Blades of Ice 2nd + Phoenix Strike 3rd + Rift? + Dragon Talon? Some interesting combinations to be had.
+
+Another thing to note: Fists of Fire, Blades of Ice, and Claws of Thunder are all sequence skills, meaning they will hit twice in the same amount of time any other normal attack would. This means they build two charges per attack. If you're trying to stay at a specific charge with these skills, that may be challenging (unless it's the third one). On the other hand, generating charges is super quick, so instead of alernating between release, charge, release, charge on a specific charge amount, you could simply consume all of them in rapid succession then rebuild them again. This could also be easily viable. Way too much theory to be done without being able to test it.
+
+#### Shadow Disciplines
+
+Not much to say here, just a lot of quality of life nice things.
+
+#### Traps
+
+I've seen some people complain about the Trap changes. In no way is this a buff to the current meta Trapsin. Meta PvM Trapsin still uses Death Sentry, so the freeing of points doesn't change anything there. However, if a Trapsin wanted to go pure spec into their element trap (I personally never used Death Sentry and Trapsin was my main character throughout D2) and have more points left over for other things, then that's an option now.
+
+Fire trap changes are nice, but I don't think it'll change much. Wake of Fire won't do enough damage and Wake of Inferno is still useless mechanically.
+
+The Blade traps are interesting though. Hard to say if they would be viable or not.
+
+### Barbarian
+
+#### Warcries
+
+Not much to say, some buffs, mostly UI changes. Grim Ward is interesting, but don't know how much of an impact it'll have on Barbarian playstyle.
+
+#### Combat Skills
+
+##### Leap
+
+Increasing the speed of Leap is interesting. It's not only a quality of life feature, but it may decreases the minimum animation length. Baseline minimum distance increased may be the counter to this. If Leap can be cast at faster intervals, it becomes more overpowered than it already was for massive CC ability.
+
+##### Leap Attack
+
+Lots of buffs, but don't know if it'll mean anything.
+
+##### Berserk
+
+Not much to say, slight change
+
+##### Double Throw
+
+Double Throw as a potentially viable build is interesting. Couple this with Throwing Mastery's new pierce % and Throw Barb could be viable.
+
+##### Frenzy
+
+The Increased Stamina synergy is very nice quality of life. Frenzy can feel offputting because the Frenzy charges disappear so quickly and it takes so long to stack them up (you gain 1 stack per hit up to the skill level of your Frenzy, so level 40 Frenzy means you can gain 40 Frenzy stacks). Having more breathing room to refresh your stack duration is very nice.
+
+### Druid
+
+#### Elemental Skills
+
+##### Firestorm
+
+Lots of people have been asking if this fixes the Phoenix Firestorm interrupt. No, it does not. Think about it. The CD changes were removing CDs sharing between CD skills. However, the Firestorm interrupt impacted skills that did not have a CD. There is a different mechanic at play with Chance to Cast skills (CtCs) and CDs. [Per Amazon Basin](https://www.theamazonbasin.com/wiki/index.php/Cast_rate#:~:text=The%20only%20exception,apply%20it.):
+	> The only exception is when skills with delays are cast by Chance to Cast items: multiple skills with delays can be cast. [1] However, while the skill delays are not applied, an 11 frame delay is applied from the action frame: during this delay no active skills can be used, although Scrolls of Identify and Town Portal placed in the belt can be used. This 11 frame delay does not interrupt an attack sequence if Chance to Cast is applied during that sequence. The delay can be applied from the action frame of any individual attack in the sequence, so if it's applied by an attack early in the sequence then the delay may end before that sequence ends. If multiple attacks in a sequence apply Chance to Cast, the delay is applied from the last attack in the sequence to apply it.
+This means that regardless of what skill it is, if it has a CD, the CD of the skill will not activate, but an 11 frame delay after the CtC skill executes is applied where no skills can be used.
+
+Otherwise, just some quality of life.
+
+##### Molten Boulder
+
+SPEEDY BOULDER. Some nice quality of life and little bit of damage improvement.
+
+##### Fissure
+
+Just some quality of life changes.
+
+##### Volcano
+
+Little bit of a buff, not sure if it's enough to make it endgame viable though. Maybe it already is and just needed an area to be useful.
+
+##### Armageddon
+
+Pretty nifty buff.
+
+##### Arctic Blast
+
+Some quality of life changes and big damage boost. Doubt it makes it useful though.
+
+##### Cyclone Armor
+
+More QoL.
+
+##### Twister
+
+Interesting. Damage buff and CC improvement.
+
+##### Hurricane
+
+QoL.
+
+#### Shapeshifting Skills
+
+##### Werewolf and Werebear
+
+They changed how attack speed is calculated for Wereforms. The notes say that the speeds should roughly match untransformed speeds. This is an improvement in every form. The notes also say that Werebear gives increased attack speed, but it does not. Probably someone copy and pasting.
+
+Old Wereform speed calculations had a complex frame divisor variable which incorporated many constants and weapon IAS (which is where weapon IAS having the majority contribution comes from). This differs from every other skill in the game as this complex frame divisor didn't exist, it was simply a constant. The reason this is a buff is because this complex frame divisor/constant can at most be 256. For non-Wereform animations, it is always 256 (208 for Assassin using Claws). However, for Wereforms, it was rarely 256. It would range in the 100-200 area. Since this is a dividing factor, the higher it is, the lower the frame length becomes. With this value being set back to the constant for Wereforms, they will always be eligible to attack at the maximum speed allowed (given they have enough IAS to reach the maximum breakpoint). [Take a look at my IAS calculator](https://warren1001.github.io/IAS_Calculator/experimental/?data=eyJjaGFyYWN0ZXIiOjMsIndlcmVmb3JtIjoiV2VyZXdvbGYiLCJwd2VhcG9uIjoiU2hpbGxlbGFnaCIsInNraWxsIjoiRnVyeSIsInN3ZWFwb24iOiJOb25lIiwidGFibGV2YXIiOiJ0YWJsZVZhcmlhYmxlSUFTIiwicHdpYXMiOiI1MCIsInN3aWFzIjoiMCIsImlhcyI6IjAiLCJmYW5hdCI6IjAiLCJib3MiOiIwIiwid3ciOiIyNSIsImZyZW56eSI6IjAiLCJoZiI6IjAiLCJkZWNyZXAiOmZhbHNlLCJvbmVoYW5kIjpmYWxzZSwid3NtYnVnIjpmYWxzZX0=). Toggle `2.4 Wereform Changes` on and off and see the difference. Feel free to change any of those variables to what you desire. The 2.4 Wereform Changes should always be an improvement. This is overall a significant buff for Wereforms.
+
+##### Rabies and Fury
+
+Attack Rating bonuses are always welcome. Small Rabies damage improvement is nice too.
+
+##### Maul
+
+Damage improvements and QoL, not much to say about it though.
+
+##### Shock Wave
+
+Improved physical damage by synergy, useful but nothing crazy.
+
+##### Fire Claws
+
+Synergy removal here makes sense. Having to invest into two trees to maximize your build is a little weird, especially since you can't use those two skills. Transitioning that synergy damage into the skill itself frees up a lot of extra points for the Werebear.
