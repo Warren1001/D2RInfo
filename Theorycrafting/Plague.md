@@ -1,6 +1,6 @@
 ## Item Stats
 **Plague**\
-*Weapons Only*\
+*~~*Weapons*~~ **Swords** Only*\
 \`Cham ~~*Fal*~~ **Shael** Um\`\
 Minimum Level Req: 67
 - 20% level 12 Lower Resist when Struck
@@ -9,41 +9,18 @@ Minimum Level Req: 67
 - 1-2 All Skills (varies)
 - **20 IAS**
 - ~~*260-380% DtD (varies)*~~
-- **260-380% ED (varies)**
+- **220-320% ED (varies)**
 - -23 Poison Res
-- ~~*0.3% DS/level*~~
-- **>0.3% DS/level** (not sure, its 37% in the revealed screenshot, higher than the previous maximum)
+- 0.3% DS/level
 - ~~*5-30 Fire Dmg*~~
 - 25% OW
 - Freezes Target +3
 - ~~*10 Strength*~~
 
-Note: the variation rolls are not confirmed to be correct, they are the old variation rolls. They may have changed.
-
-Being a 3 socket runeword that can be put into all weapons, this means any weapon that can get 3 open sockets, INCLUDING Claws and Sorceress Orbs (YES, I TESTED IT).
-
 Notes:
 - 13-17 Cleansing provides 75-78% PLR and CLR to the current length every 2 seonds.
   - CLR (Curse Length Reduction) WILL reduce Shrine duration! You will have very limited shrine duration while Cleansing is on.
 
-### Assassin Usage
+### Overall Usage
 
-This would make a good hybrid claw for Trapper+MA sins and a great pure claw for elemental MA sins. With both Fade and Cleansing, while you will not be curse immune, curses will expire extremely quickly, as would shrines.
-
-I see this being a meta option (perhaps not best in slot, though..) for new Phoenix Striker. Put it into Runic Talons with +3 Phoenix Strike and you would have a great elemental stat stick while still doing great physical damage (380% ED is a lot).
-
-Additionally, the -23 Poison Res would boost Venom damage as well, making this an extremely good runeword for Assassins. Likely best in slot (or competing for best in slot) for several builds.
-
-### Sorceress Usage
-
-While this runeword could be put into a Sorceress Orb, a Rare Orb with +2 Sorc skills would be better. None of the other mods are useful for a Sorc.
-
-### Druid Usage
-
-This could potentially be a good item for Rabies Druid. The caveat here is only 20 weapon IAS. More theory needed.
-
-### Necromancer Usage
-
-This can fit into a Dagger, thus it may be a viable option for Dagger Necromancer. I dont think it's better than Blackbogs though.
-
-
+Originally Plague was all weapons, which offered the ability to put it into Claws, Daggers, and even Sorceress Orbs. Now that it is Swords only, I don't see a use for it. I can't think of any build where this is good on. Maybe a Zealot before Grief if you somehow have Cham + Um and no Lo? Some people think this will be good on Act 5 Mercenaries for a cheap Infinity, but I don't think that's true. Act 5 Mercenaries can cast Battle Cry now, which will overwrite the Lower Resist proc frequently. Hard to know if it would actually end up being useful or not. Maybe just as a general damage dealing Act 5 Mercenary weapon runeword, Lower Resist aside. Also, enjoy having no shrines :)
