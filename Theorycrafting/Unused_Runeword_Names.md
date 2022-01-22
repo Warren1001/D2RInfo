@@ -93,5 +93,3 @@ Wings of Hope\
 Woe\
 Wonder\
 Youth
-
-![test](https://github.com/Warren1001/D2RInfo/blob/master/masin.gif?raw=true)
