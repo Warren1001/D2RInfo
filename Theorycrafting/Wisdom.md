@@ -20,7 +20,6 @@ I will refer to the value of a runeword by the sum of its most notable runes. Wi
 A Pul rune can drop from Nightmare Hellforge and can be farmed from Hell Countess.
 
 Notes:
-- Piercing Attack has a hidden % Pierce given and it varies per application. Razortail's is 33% while Buriza's is 100%.
 - Piercing Attack does stack with pierce, gained from the Amazon passive Pierce or the upcoming Throwing Mastery change which will give pierce as well.
 
 ### Amazon Usage
