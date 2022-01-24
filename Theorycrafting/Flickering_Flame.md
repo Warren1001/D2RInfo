@@ -37,7 +37,10 @@ This could be good for a Fire Bowazon. A Fire Bowazon doesn't have a dedicated h
 
 ### Assassin Usage
 
-I could see this being used for a Fire Trapper. Same thing with Sorceress though.
+Notes:
+- -res and +dmg% do not apply to Traps currently (except Fire Blast)
+
+I could see this being used for a Fire Trapper. Since Facets don't work for traps, a 2 Sin Circlet with 2 Facets wouldn't be better. However, the -res on this runeword doesn't apply to traps either, so this is purely +3 Fire Skills and the Aura on Equip being useful here. Shako may end up being more preferred.
 
 ### Necromancer Usage
 
