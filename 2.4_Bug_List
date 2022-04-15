@@ -1,0 +1,40 @@
+I'm going to maintain a bug list so that people can learn what is actually happening and if there are any fixes.
+
+### Lobby/Realm/Game Functionality
+
+#### Black Screen on Load for Online Characters
+There is currently an issue with D2R online where people will sometimes not be able to join games with their characters. This can happen for both the first time you load the character after the patch or after you've been playing the character on 2.4 already. The issue happens due to some regional lockout bug.
+- To fix it, you need to go back to the region that character was last on, load into a game, then save and exit, then close the game, and go back to your region. This should fix that issue. It'll probably happen every so often as you switch regions, so you'll have to do this every time it happens until Blizzard fixes it.
+
+### Gameplay Mechanics
+
+#### Mana Burn
+Not bugged anymore, just an explanation since there is so much misinformation. A lot of people seem to not understand what the Mana Burn bug was. Mana damage done through melee attacks was erroneously 255x higher than intended. Mana damage done through spells was working as intended. The 2.4 patch notes has a bit weird terminology, but they did indeed fix this 255x multiplier. Mana Burn enchanted monsters do floor(mlvl * 50 / 100) * 2 mana damage in hell, which is roughly equal to their monster level. Monsters with native mana damage (like Ghosts) do their own set damage amount, which can be up to 300 or so mana damage.
+
+#### Underground Passage does not connect to Dark Woods
+I reported this bug [on the PTR Bug Report forum nearly a month ago](https://us.forums.blizzard.com/en/d2r/t/underground-passage-level-generates-with-no-exit/115653). It was not fixed on 2.4 launch.
+
+### Items
+
+#### Set Upgrade Recipe
+The Set Upgrade Recipe is ladder-first. So many people overlook this for some reason. The elite upgrade recipes were ladder-only in LOD as well. The confusing notion for many people is that there was a lot of content that was ladder-only in LOD, but ONLY runewords were limited to online. In LOD, there were unique items and cube recipes that were ladder-only, but they were also available in Singleplayer. This is the same case with D2R. The new cube recipes are ladder-first, but because they aren't runewords, they're also available in Singleplayer. All ladder-only content has always been available to Singleplayer EXCEPT runewords. So the 2 week duration of 2.4 being live online but no ladder means these cube recipes aren't available online. This is not a bug. It may be stupid though.
+
+### Barbarian
+
+#### Whirlwind
+Whirlwind is currently bugged in multiple ways.
+- You're able to be put into FHR in the middle of the animation, which does weird stuff with the remaining of the Whirlwind duration as well as cause desync.
+- A lot of people think the 4th and 8th frame don't hit, but this isn't true (people should test it..). What happens is Whirlwind is able to end before the 4th frame in D2R, when it was always at least 4 frames in LOD. This might be because of the resolution change and now the minimum Whirlwind distance is smaller?
+
+#### Leap Attack
+Leap Attack's Nova has the same issue all novas have: Under the right circumstances, the nova can hit twice. This is possible with Nova, Frozen Nova, and the Nova from Claws of Thunder, and now Leap Attack Nova as well. There is likely a 4 frame NextDelay (didn't check, that's what other novas' NextDelays are though) associated with the nova. Some size 2 and all size 3 monsters can be hit twice with the nova because of the knockback Leap Attack has, pushing them into the nova the same time the NextDelay duration expires.
+
+#### Find Item
+Not a bug, but Find Item received a hidden buff. Before, the item drop chance was a diminishing returns formula based on two factors (dm12). In 2.4, its dm12*('Find Potion'.blvl)*1, which means Find Potion is now a hidden synergy, and every hard point into Find Potion gives an additional 1% to Find Item.
+
+## Bugs that still exist
+
+### Assassin
+
+#### Blade Fury
+Claw Mastery's Attack Rating still does not apply to Blade Fury, despite the character screen saying it does.
