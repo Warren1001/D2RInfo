@@ -1,6 +1,7 @@
 # Put d2s files into `Users/Saved Games/Diablo II Resurrected (PTR)/` folder.
 
 - `newptrrws.d2s` only contains the runes for the runewords and some useful bases.
+- `newptrother.d2s` contains Wolfhowl and Beast Double Axe and Beast Berserker Axe.
 
 # Extract .rar file contents into (install location) `Diablo II Resurrected Public Test/mods/` folder. You will have to create the `mods` folder.
 - Path should read `../Diablo II Resurrected Public Test/mods/mosaic/mosaic.mpq/..`
