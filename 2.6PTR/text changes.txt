@@ -1,0 +1,69 @@
+[cubemain] Modified row (152): 1 Ral Rune + 1 Sol Rune + 1 Perfect Emerald + 1 Normal Set Weapon -> Exceptional Set Weapon
+	ladder: '1' -> ''
+[cubemain] Modified row (153): 1 Tal Rune + 1 Shael Rune + 1 Perfect Diamond + 1 Normal Set Armor -> Exceptional Set Armor
+	ladder: '1' -> ''
+[cubemain] Modified row (154): 1 Lum Rune + 1 Pul Rune + 1 Perfect Emerald + 1 Exceptional Set Weapon -> Elite Set Weapon
+	ladder: '1' -> ''
+[cubemain] Modified row (155): 1 Ko Rune + 1 Lem Rune + 1 Perfect Diamond + 1 Exceptional Set Armor -> Elite Set Armor
+	ladder: '1' -> ''
+[itemstatcost] New row (201):
+	Stat='item_charge_noconsume', *ID='200', Send Bits='7', Add='106', Multiply='256', Save Bits='7', Save Add='0', descpriority='159', descfunc='19', descstrpos='ModStr6k', descstrneg='ModStr6k', advdisplay='2', *eol='0'
+[itemstatcost] Removed row (201):
+	Stat='unused200', *ID='200', 1.09-Save Bits='21', 1.09-Save Add='0', *eol='0'
+[properties] New row (276):
+	code='charge-noconsume', *Enabled='1', func1='1', stat1='item_charge_noconsume', *Tooltip='+#% chance for finishing moves to not consume charges', *Min='Min %', *Max='Max %', *eol='0'
+[runes] New row (170):
+	Name='Runeword171', *Rune Name='Hustle (armor)', complete='1', *Patch Release='D2R Ladder 3', itype1='tors', *RunesUsed='ShaelKoEld', Rune1='r13', Rune2='r18', Rune3='r02', T1Code1='move2', T1Min1='50', T1Max1='50', T1Code2='stamdrain', T1Min2='35', T1Max2='35', T1Code3='swing2', T1Min3='20', T1Max3='20', *eol='0'
+[runes] New row (171):
+	Name='Runeword172', *Rune Name='Hustle (weapon)', complete='1', *Patch Release='D2R Ladder 3', itype1='weap', *RunesUsed='ShaelKoEld', Rune1='r13', Rune2='r18', Rune3='r02', T1Code1='hit-skill', T1Param1='Quickness', T1Min1='5', T1Max1='9', T1Code2='swing2', T1Min2='10', T1Max2='10', T1Code3='dmg%', T1Min3='130', T1Max3='150', *eol='0'
+[runes] New row (172):
+	Name='Runeword173', *Rune Name='Mosaic', complete='1', *Patch Release='D2R Ladder 3', itype1='h2h', *RunesUsed='MalGulThul', Rune1='r23', Rune2='r25', Rune3='r10', T1Code1='skilltab', T1Param1='20', T1Min1='2', T1Max1='2', T1Code2='charge-noconsume', T1Min2='25', T1Max2='25', T1Code3='swing2', T1Min3='20', T1Max3='20', T1Code4='dmg%', T1Min4='200', T1Max4='250', *eol='0'
+[runes] New row (173):
+	Name='Runeword174', *Rune Name='Metamorphosis', complete='1', *Patch Release='D2R Ladder 3', itype1='helm', *RunesUsed='IoChamFal', Rune1='r16', Rune2='r32', Rune3='r19', T1Code1='hit-skill', T1Param1='Mark of the Bear', T1Min1='100', T1Max1='1', T1Code2='hit-skill', T1Param2='Mark of the Wolf', T1Min2='100', T1Max2='1', T1Code3='skilltab', T1Param3='16', T1Min3='5', T1Max3='5', T1Code4='ac%', T1Min4='50', T1Max4='80', T1Code5='res-all', T1Min5='10', T1Max5='10', *eol='0'
+[runes] New row (174):
+	Name='Runeword175', *Rune Name='Ground', complete='1', *Patch Release='D2R Ladder 3', itype1='helm', *RunesUsed='ShaelIoOrt', Rune1='r13', Rune2='r16', Rune3='r09', T1Code1='hp%', T1Min1='5', T1Max1='5', T1Code2='ac%', T1Min2='75', T1Max2='100', T1Code3='res-ltng', T1Min3='10', T1Max3='30', T1Code4='abs-ltng%', T1Min4='10', T1Max4='15', *eol='0'
+[runes] New row (175):
+	Name='Runeword176', *Rune Name='Temper', complete='1', *Patch Release='D2R Ladder 3', itype1='helm', *RunesUsed='ShaelIoRal', Rune1='r13', Rune2='r16', Rune3='r08', T1Code1='hp%', T1Min1='5', T1Max1='5', T1Code2='ac%', T1Min2='75', T1Max2='100', T1Code3='res-fire', T1Min3='10', T1Max3='30', T1Code4='abs-fire%', T1Min4='10', T1Max4='15', *eol='0'
+[runes] New row (176):
+	Name='Runeword177', *Rune Name='Hearth', complete='1', *Patch Release='D2R Ladder 3', itype1='helm', *RunesUsed='ShaelIoThul', Rune1='r13', Rune2='r16', Rune3='r10', T1Code1='hp%', T1Min1='5', T1Max1='5', T1Code2='ac%', T1Min2='75', T1Max2='100', T1Code3='res-cold', T1Min3='10', T1Max3='30', T1Code4='abs-cold%', T1Min4='10', T1Max4='15', *eol='0'
+[runes] New row (177):
+	Name='Runeword178', *Rune Name='Cure', complete='1', *Patch Release='D2R Ladder 3', itype1='helm', *RunesUsed='ShaelIoTal', Rune1='r13', Rune2='r16', Rune3='r07', T1Code1='hp%', T1Min1='5', T1Max1='5', T1Code2='ac%', T1Min2='75', T1Max2='100', T1Code3='res-pois', T1Min3='10', T1Max3='30', T1Code4='res-pois-len', T1Min4='75', T1Max4='75', *eol='0'
+[runes] New row (178):
+	Name='Runeword179', *Rune Name='Bulwark', complete='1', *Patch Release='D2R Ladder 3', itype1='helm', *RunesUsed='ShaelIoSol', Rune1='r13', Rune2='r16', Rune3='r12', T1Code1='hp%', T1Min1='5', T1Max1='5', T1Code2='ac%', T1Min2='75', T1Max2='100', T1Code3='red-dmg%', T1Min3='10', T1Max3='15', T1Code4='regen', T1Min4='30', T1Max4='30', T1Code5='lifesteal', T1Min5='4', T1Max5='6', *eol='0'
+[runes] Modified row (40): Runeword40
+	server: '1' -> ''
+[runes] Modified row (83): Runeword84
+	server: '1' -> ''
+[runes] Modified row (93): Runeword94
+	server: '1' -> ''
+[runes] Modified row (96): Runeword97
+	server: '1' -> ''
+[runes] Modified row (105): Runeword106
+	server: '1' -> ''
+[runes] Modified row (150): Runeword151
+	server: '1' -> ''
+[runes] Modified row (164): Runeword165
+	server: '1' -> ''
+[skilldesc] New header: item proc text
+	mark of the bear: 'SkillItemMetamorphosisBear'
+	mark of the wolf: 'SkillItemMetamorphosisWolf'
+[skilldesc] New header: item proc descline count
+	mark of the bear: '4'
+	mark of the wolf: '3'
+[skilldesc] New row (231):
+	skilldesc='mark of the bear', SkillPage='0', SkillRow='0', SkillColumn='0', ListRow='0', IconCel='2', str name='SkillnameMetamorphosisBear', str short='SkillnameMetamorphosisBear', str long='SkillnameMetamorphosisBear', str alt='SkillnameMetamorphosisBear', descline1='74', desctexta1='ModStr2uPercent', desccalca1='par3', descline2='74', desctexta2='ModStr5c', desccalca2='par2', descline3='74', desctexta3='ModStr6l', desccalca3='par1', descline4='12', desctexta4='StrSkill0', desccalca4='len', item proc text='SkillItemMetamorphosisBear', item proc descline count='4', *eol='0'
+[skilldesc] New row (232):
+	skilldesc='mark of the wolf', SkillPage='0', SkillRow='0', SkillColumn='0', ListRow='0', IconCel='2', str name='SkillnameMetamorphosisWolf', str short='SkillnameMetamorphosisWolf', str long='SkillnameMetamorphosisWolf', str alt='SkillnameMetamorphosisWolf', descline1='74', desctexta1='ModStr2g', desccalca1='par2', descline2='74', desctexta2='ModStr4c', desccalca2='par1', descline3='12', desctexta3='StrSkill0', desccalca3='len', item proc text='SkillItemMetamorphosisWolf', item proc descline count='3', *eol='0'
+[skills] New header: ItemUseRestrict
+	Mark of the Bear: '1'
+	Mark of the Wolf: '1'
+[skills] New row (372):
+	skill='Mark of the Bear', *Id='371', skilldesc='mark of the bear', srvdofunc='18', aurastate='markbear', auralencalc='4500', aurastat1='attackrate', aurastatcalc1='par1', aurastat2='item_crushingblow', aurastatcalc2='par2', aurastat3='damageresist', aurastatcalc3='par3', attackrank='0', range='none', UseAttackRate='1', ItemEffect='1', ItemUseRestrict='1', reqlevel='1', restrict='2', State1='bear', leftskill='0', rightskill='0', Param1='25', *Param1 Description='Attack Speed %', Param2='25', *Param2 Description='Crushing Blow %', Param3='20', *Param3 Description='Damage Resist %', InGame='1', HitShift='8', cost mult='256', cost add='1000', *eol='0'
+[skills] New row (373):
+	skill='Mark of the Wolf', *Id='372', skilldesc='mark of the wolf', srvdofunc='18', aurastate='markwolf', auralencalc='4500', aurastat1='item_tohit_percent', aurastatcalc1='par1', aurastat2='item_maxhp_percent', aurastatcalc2='par2', attackrank='0', range='none', UseAttackRate='1', ItemEffect='1', ItemUseRestrict='1', reqlevel='1', restrict='2', State1='wolf', leftskill='0', rightskill='0', Param1='20', *Param1 Description='Attack Rating %', Param2='40', *Param2 Description='Life %', InGame='1', HitShift='8', cost mult='256', cost add='1000', *eol='0'
+[skills] Modified row (259): Quickness
+	ItemEffect: '' -> '1'
+[states] New row (191):
+	state='markbear', *ID='190', group='4', restrict='1', noclear='1', overlay1='bloodlust_state', *eol='0'
+[states] New row (192):
+	state='markwolf', *ID='191', group='5', restrict='1', attblue='1', noclear='1', overlay1='impregnated', *eol='0'
