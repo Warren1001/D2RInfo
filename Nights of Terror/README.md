@@ -8,4 +8,6 @@
 4. Load character and transfer item to desired character through shared stash.
 5. Drop item once event ends (or keep it if you don't care about cheating in offline).
 
+# Descriptions
+
 VendorReduce.d2s - Character containing a small charm with 50% Reduced Vendor Prices.
