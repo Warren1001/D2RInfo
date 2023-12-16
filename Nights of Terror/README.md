@@ -6,7 +6,7 @@
 2. Drop it into `Users/Saved Games/Diablo II Resurrected`.
 3. Restart D2R if it's open.
 4. Load character and transfer item to desired character through shared stash.
-5. Drop item once event ends (or keep it if you don't care about cheating in offline).
+5. Drop item once day for event effect ends (or keep it if you don't care about cheating in offline).
 
 # Descriptions
 
