@@ -11,4 +11,5 @@
 # Descriptions
 
 `VendorReduce.d2s` - Character containing a small charm with 50% Reduced Vendor Prices.
+
 `MagicFindCharm.d2s` - Character containing two small charms with 125% Better Chance of Finding Magic Items (155 is the maximum on one item without modding).
